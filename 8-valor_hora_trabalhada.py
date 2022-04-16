@@ -4,7 +4,7 @@ s = input('digite o valor da sua hora de trabalho: \n')
 s = float(s)
 
 h = input ('digite quantas horas você trabalha por mes: \n')
-h = float(h)
+
 
 salario =  (s * h)
 
