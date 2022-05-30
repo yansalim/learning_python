@@ -9,8 +9,8 @@ A = float(input('insira a altura: '))
 #B = int(input('insira outro numero inteiro: '))
 #C = float(input('insira um número real: '))
 
-H = round((72.7*A)-58,2)
-M = round((62.1*A)-44.7,2)
+H = round((72.7*A)-58 ,2)
+M = round((62.1*A)-44.7 ,2)
 print('O peso ideal para esta altura se for homem é: ', H,'\n')
 print('O peso ideal para esta altura se for mulher é: ',M)
 
